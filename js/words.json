@@ -1,0 +1,50 @@
+[
+    {
+        "wordID": "100001A",
+        "eng_word": "Apple",
+        "hindi_word": "एप्पल",
+        "meaning": "सेब",
+        "eng_sentence": "An apple is kept on the table.", 
+        "hindi_sentence": "मेज पर एक सेब रखा है|" 
+    },
+    {
+        "wordID": "100002A",
+        "eng_word": "Available",
+        "hindi_word": "अवेलेबिल",
+        "meaning": "उपलब्ध",
+        "eng_sentence": "I will be available today at 1 PM.", 
+        "hindi_sentence": "मैं आज दोपहर 1 बजे उपलब्ध रहूंगा।" 
+    },
+    {
+        "wordID": "100003A",
+        "eng_word": "Ball",
+        "hindi_word": "बॉल",
+        "meaning": "गेंद",
+        "eng_sentence": "Throw the ball.", 
+        "hindi_sentence": "गेंद को फेंके।" 
+    },
+    {
+        "wordID": "100004A",
+        "eng_word": "Check",
+        "hindi_word": "चेक",
+        "meaning": "जाँच",
+        "eng_sentence": "I will check your answers.", 
+        "hindi_sentence": "मैं आपके उत्तरों की जांच करूंगा।" 
+    },
+    {
+        "wordID": "100005A",
+        "eng_word": "Left",
+        "hindi_word": "लेफ्ट",
+        "meaning": "बाएं",
+        "eng_sentence": "Look to your left.", 
+        "hindi_sentence": "अपनी बाईं ओर देखें।" 
+    },
+    {
+        "wordID": "100006A",
+        "eng_word": "",
+        "hindi_word": "",
+        "meaning": "",
+        "eng_sentence": "", 
+        "hindi_sentence": "" 
+    }
+]
