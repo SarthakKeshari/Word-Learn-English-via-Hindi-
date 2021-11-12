@@ -12,6 +12,7 @@
     <style>
         body{
             background-color: gainsboro;
+            overflow-x: hidden;
         }
         .btn-primary:hover,.btn-primary:focus,.btn-primary:active, 
         .btn-primary:active:focus:not(:disabled):not(.disabled),
@@ -32,11 +33,32 @@
     </nav>
 
     <div class="container p-5">
-        <div class="accordion row" id="word_display_area">
+        <div class="accordion row d-flex justify-content-center" id="word_display_area">
             
         </div>
     </div>
 
+    <hr>
+
+    <div class="row">
+        <div class="col-lg-3 bg-light">
+            <img src="./images/logo.png" alt="" class="img-fluid p-4">
+        </div>
+        <div class="col-lg-9 bg-dark text-light p-5 container">
+            <h4>Learn the way you wish to express</h4>
+            <p>An interactive way to learn English with the help of Hindi explaination. Now grab the language at your ease with meaning and example sentence(s).</p>
+            <em>Hindi Translation:</em><br>
+            <code>
+                <h5>जिस तरह से आप व्यक्त करना चाहते हैं उसे जानें</h5>
+                <p>हिंदी व्याख्या की मदद से अंग्रेजी सीखने का एक परस्पर संवादात्मक तरीका। अब अर्थ और उदाहरण वाक्यों के साथ अपनी सहजता से भाषा को सीखें।</p>
+            </code>
+            <br>
+            <small class="float-end">Provide your valuable feedback at <a href = "mailto: srthkkeshari84@gmail.com">srthkkeshari84@gmail.com</a></small>
+        </div>
+    </div>
+
+    <hr>
+    <p class="ms-2">&copy;Word.Sarthak Keshari. Copyright, 2021</p>
     <script>
         function bolo(word, speed)
         {
